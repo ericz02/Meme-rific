@@ -1,5 +1,7 @@
 # Meme-rific
 
+<div style="position: relative; padding-bottom: 65.03401360544217%; height: 0;"><iframe src="https://www.loom.com/embed/159a52d8bd254e73a6699e93b3713dc1?sid=9cc49754-4ffd-440e-a990-a90fa3019015" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## Table of Contents
 
 1. [Overview](#Overview)
@@ -101,3 +103,4 @@ Meme-rific is a meme generating app that allows users to create memes with their
 [Add list of network requests by screen ]
 - Create basic snippets for each Parse network request
 - [OPTIONAL: List endpoints if using an existing API such as Yelp]
+  
