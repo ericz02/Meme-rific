@@ -1,6 +1,13 @@
 # Meme-rific
 
-<div style="position: relative; padding-bottom: 65.03401360544217%; height: 0;"><iframe src="https://www.loom.com/embed/159a52d8bd254e73a6699e93b3713dc1?sid=9cc49754-4ffd-440e-a990-a90fa3019015" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/159a52d8bd254e73a6699e93b3713dc1">
+      <p>ericz02/Meme-rific: Meme-rific is a meme generating app that allows users to create memes with their friends and family. - 17 November 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/159a52d8bd254e73a6699e93b3713dc1">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/159a52d8bd254e73a6699e93b3713dc1-with-play.gif">
+    </a>
+  </div>
 
 ## Table of Contents
 
